@@ -1,2 +1,2 @@
 # pupil
-Code for pupillometry modelling
+Matlab code for pupillometry modelling
